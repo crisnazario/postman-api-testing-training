@@ -111,7 +111,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "16d73787-ab2c-4121-933e-68054bd1dd2f",
+				"id": "f5df4fe6-063a-4cf0-9795-79b8c9162cd3",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -121,7 +121,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "fc5a80ef-f113-478c-a59d-9614ebdb46ce",
+				"id": "5cf7c278-f577-4628-b6c8-ff1e9589ec77",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -131,9 +131,9 @@
 	],
 	"variable": [
 		{
-			"id": "300699c2-7a20-4ae0-86be-fde2bb80b37a",
+			"id": "275009e0-85c7-4904-bdf1-77ae111f8d45",
 			"key": "githubProjectUrl",
-			"value": "LINK TO YOUR PROJECT",
+			"value": "https://github.com/crisnazario/postman-api-testing-training",
 			"type": "string"
 		}
 	]
